@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🔭 I am currently learning Python, PyTorch and scikit-learn.
+- 🔭 I am Softweare Engineer | Angular.
 - 📫 Contact me via telegram: @acidcry909
