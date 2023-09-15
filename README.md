@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🔭 I am Softweare Developer.
+- 🔭 I am Software Developer.
 - 📫 Contact me via telegram: @acidcry909
