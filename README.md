@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🔭 I am Software Developer.
+- 🔭 I am Ios Developer.
 - 📫 Contact me via telegram: @acidcry909
