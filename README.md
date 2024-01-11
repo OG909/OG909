@@ -20,9 +20,9 @@
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/acidcry909/), [Telegram](https://t.me/acidcry909)
 
 ### 🛠️ Technologies and tools and tools
-<img src="https://img.shields.io/badge/swift-black?logo=swift" alt="logo" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/xcode-black?logo=xcode" alt="logo" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/git-black?logo=git" alt="logo" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/react-black?logo=react" alt="logo" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/ts-black?logo=typescript" alt="logo" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Swift-black?logo=swift" alt="logo" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Xcode-black?logo=xcode" alt="logo" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/Git-black?logo=git" alt="logo" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/React-black?logo=react" alt="logo" height="25" />&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-black?logo=typescript" alt="logo" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/C%2B%2B-black?logo=c%2B%2B" alt="logo" height="25" />&nbsp;
