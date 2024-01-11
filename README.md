@@ -16,7 +16,7 @@
 </div>
 
 ### 🍜 About me
-- 📄 Know about my experiences [CV](https://docs.google.com/document/d/1fHA-p-XyeZ7pQ70Vo6G1tdTIgdWIgaBzE1holPHRT0o/edit)
+- 📄 Know about my experiences [CV(RU)](https://docs.google.com/document/d/1fHA-p-XyeZ7pQ70Vo6G1tdTIgdWIgaBzE1holPHRT0o/edit) [CV(ENG)](https://docs.google.com/document/d/1Ji7lkXmvhUspZtOXcLb8GuEVITXLzt3tlyvPaNh72Ig/edit)
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/acidcry909/), [Telegram](https://t.me/acidcry909)
 
 ### 🛠️ Technologies and tools and tools
