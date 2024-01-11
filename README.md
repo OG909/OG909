@@ -18,3 +18,10 @@
 ### About me
 - 📄 Know about my experiences [CV](https://docs.google.com/document/d/1fHA-p-XyeZ7pQ70Vo6G1tdTIgdWIgaBzE1holPHRT0o/edit)
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/acidcry909/), [Telegram](https://t.me/acidcry909)
+
+### My Stat
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=github_dark" alt=""/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=github_dark" alt=""/>
+</div>
