@@ -25,4 +25,4 @@
 <img src="https://img.shields.io/badge/Git-black?logo=git" alt="logo" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/React-black?logo=react" alt="logo" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-black?logo=typescript" alt="logo" height="25" />&nbsp;
-<img src="https://img.shields.io/badge/C%2B%2B-black?logo=c%2B%2B" alt="logo" height="25" />&nbsp;
+
