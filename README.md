@@ -14,10 +14,6 @@
     </a>
 </div>
 
-### 🍛 About me
-- 📄 Know about my experiences [CV(RU)](https://docs.google.com/document/d/1fHA-p-XyeZ7pQ70Vo6G1tdTIgdWIgaBzE1holPHRT0o/edit)
-- 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/acidcry909/), [Telegram](https://t.me/acidcry909)
-
 ### 🛠️ Technologies and tools and tools
 <img src="https://img.shields.io/badge/Python-black?logo=python" alt="logo" height="25" />&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-black?logo=javascript" alt="logo" height="25" />&nbsp;
